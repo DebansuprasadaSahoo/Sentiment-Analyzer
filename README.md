@@ -1,3 +1,4 @@
+LIVE LINK - https://sentimentapppy-makkdh9sr9hefoyfhvdamv.streamlit.app/
 # Sentiment-Analyzer
 Sentiment Analysis App
 Project Overview:
